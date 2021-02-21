@@ -1,10 +1,11 @@
 # FilmDownloader
 
 Used technologies: python, beautifulsoup, selenium, ffmpeg
+It is just a part of my project
 
 ## Need to do
 
-You should create your database in mysql and connect to your database using mysql.connector. I am for example using xampp with mysql in this project
+You should create your database in mysql and connect to your database using mysql.connector. I am for example using xampp with mysql
 
 ```
 mysql.connector.connect(user='username', password='password', host='localhost', database='databasename')
