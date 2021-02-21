@@ -36,7 +36,7 @@ create table filman_downloaded_films
 	quality char(30),
 	link varchar(400),
 	FOREIGN KEY (film_id) references filman_films(id)
-)
+);
 
 create table temporary
 (
