@@ -18,7 +18,7 @@ filman_categories.sql,
 filman_films.sql
 ```
 
-Last thing is create 2 additional tables in your database, there will be added informations about the progress
+Last thing is create 2 additional tables in your database, there will be added information about the progress
 
 ```
 create table filman_downloaded_films
