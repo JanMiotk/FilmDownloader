@@ -1,7 +1,7 @@
 # FilmDownloader
 
 Used technologies: python, beautifulsoup, selenium, ffmpeg</br>
-It is just a part of my project
+It is just a part of my project for testing
 
 ## Need to do
 
@@ -18,7 +18,7 @@ filman_categories.sql,
 filman_films.sql
 ```
 
-Last thing is create 2 additional tables in your database, there will be added information about the progress
+Last thing is to create 2 additional tables in your database, there will be added information about the progress
 
 ```
 create table filman_downloaded_films
