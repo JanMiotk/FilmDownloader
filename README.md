@@ -45,5 +45,23 @@ create table temporary
 )
 ```
 
+## Short presentation
 
+* How to import files
+
+![alt text](https://media.giphy.com/media/XCcokVIUvlrgBTvdn1/giphy.gif)
+
+![alt text](https://media.giphy.com/media/B4BFiXzy4DlXDB7SI9/giphy.gif)
+
+* Creating rest of the tables
+
+![alt text](https://media.giphy.com/media/ZEjsBycOYV6eDrY0bI/giphy.gif)
+
+* To execute program you have to open cmd where is python file and write python get_films.py
+
+![alt text](https://media.giphy.com/media/ta6OOezHHPRd8eQkVJ/giphy.gif)
+
+* Subprocess stop executing program until end of task that why to execute multi processes I store information about processed films in temporary table and execute next program which use this data to move to next task. If you have fast internet you can even execute 4 programs at once
+
+![alt text](https://media.giphy.com/media/qQOw86uW0j5GqeEQbN/giphy.gif)
 
