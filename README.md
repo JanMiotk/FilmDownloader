@@ -5,6 +5,11 @@ It is just a part of my project for testing
 
 ## Need to do
 
+Download ffmpeg and python
+
+[ffmpeg](https://ffmpeg.org/download.html)
+[python](https://www.python.org/downloads/)
+
 You should create your database in mysql and connect to your database using mysql.connector. I am for example using xampp with mysql
 
 ```
@@ -38,3 +43,6 @@ create table temporary
 	title varchar(200)
 )
 ```
+
+
+
